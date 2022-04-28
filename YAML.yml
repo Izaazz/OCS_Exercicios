@@ -1,12 +1,10 @@
-alunos:
-  nome: "Izabela Maria da Silva Fonseca"
-  idade: 15
-  nascimento: "21/06/2006"
-  
-  nome: "Gabriela Souza Gomes da Costa"
-  idade: 15
-  nascimento: "10/06/2006"
-  
-  nome: "Rafael Eustáquio Pinto"
-  idade: 16
-  nascimento: "10/04/2006"
+alunos: 
+  idade1: 15
+  idade2: 15
+  idade3: 16
+  nascimento1: 21/06/2006
+  nascimento2: 10/06/2006
+  nascimento3: 10/04/2006
+  nome1: "Izabela Maria da Silva Fonseca"
+  nome2: "Gabriela Souza Gomes da Costa"
+  nome3: "Rafael Eustáquio Pinto"
